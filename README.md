@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Hi everyone!  This is another step in the best direction...
+Hi everyone!  Looking forward to meeting you all soon :).
